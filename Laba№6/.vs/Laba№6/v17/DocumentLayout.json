@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikor\\Downloads\\New folder\\repos\\Laba\u21166\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1089BAF2-F713-40BF-947B-F7CE0CCDF522}|Laba\u21166\\Laba\u21166.pyproj|C:\\Users\\nikor\\Downloads\\New folder\\repos\\Laba\u21166\\Laba\u21166\\Laba_6.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1089BAF2-F713-40BF-947B-F7CE0CCDF522}|Laba\u21166\\Laba\u21166.pyproj|solutionrelative:Laba\u21166\\Laba_6.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba_6.py",
+              "DocumentMoniker": "C:\\Users\\nikor\\Downloads\\New folder\\repos\\Laba\u21166\\Laba\u21166\\Laba_6.py",
+              "RelativeDocumentMoniker": "Laba\u21166\\Laba_6.py",
+              "ToolTip": "C:\\Users\\nikor\\Downloads\\New folder\\repos\\Laba\u21166\\Laba\u21166\\Laba_6.py",
+              "RelativeToolTip": "Laba\u21166\\Laba_6.py",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-15T12:25:25.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

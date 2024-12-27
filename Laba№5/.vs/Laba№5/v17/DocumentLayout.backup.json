@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikor\\source\\repos\\Laba\u21165\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A9908A-1BE9-4892-8B8F-8EA1D0169223}|Laba\u21165\\Laba\u21165.pyproj|C:\\Users\\nikor\\source\\repos\\Laba\u21165\\Laba\u21165\\Laba_5.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E1A9908A-1BE9-4892-8B8F-8EA1D0169223}|Laba\u21165\\Laba\u21165.pyproj|solutionrelative:Laba\u21165\\Laba_5.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laba_5.py",
+              "DocumentMoniker": "C:\\Users\\nikor\\source\\repos\\Laba\u21165\\Laba\u21165\\Laba_5.py",
+              "RelativeDocumentMoniker": "Laba\u21165\\Laba_5.py",
+              "ToolTip": "C:\\Users\\nikor\\source\\repos\\Laba\u21165\\Laba\u21165\\Laba_5.py",
+              "RelativeToolTip": "Laba\u21165\\Laba_5.py",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-11T13:43:49.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
